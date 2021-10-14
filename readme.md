@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/csesumonpro" rel="nofollow">Like Us</a></p>
 
 # About Laravel vue js Blog Project
-It is a simple blog site where user can post their blog with images and other featutes. This site is built using laravel frame work, Vue Js, Bootstrap, Html and Css and jquery
+It is a simple blog site where user can post their blog with images and other featutes. This site is built using laravel frame work, Vue Js, Bootstrap, Html and css and jquery
 ![laravel vue js vuex vue router blog project](https://user-images.githubusercontent.com/29582239/49328894-e5dff680-f5a1-11e8-9190-c6b25730bfb5.png)
    
 ##Here are the things you will learn in this series:
