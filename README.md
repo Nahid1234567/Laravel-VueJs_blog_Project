@@ -1,2 +1,2 @@
 # Laravel-VueJs_blog_Project
-Its an E Commerce Site where our customers can buy their daily household chores to Fasions wear and other daily basic needs.
+Its an simple blog project where user can post their blog with images.
